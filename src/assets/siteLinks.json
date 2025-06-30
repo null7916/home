@@ -1,37 +1,38 @@
 [
   {
-    "icon": "Blog",
+    "icon": "fa:blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "http://154.94.234.222:8090/",
+    "target": "_blank",
+    "description": "分享技术文章与生活感悟"
   },
   {
-    "icon": "Cloud",
+    "icon": "fa:cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "http://fnos.null7916.dpdns.org/",
+    "target": "_blank",
+    "description": "个人文件存储与分享"
   },
   {
-    "icon": "CompactDisc",
+    "icon": "fa:music",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://music.mcya.cn/",
+    "target": "_blank",
+    "description": "在线音乐播放器"
   },
   {
-    "icon": "Compass",
+    "icon": "fa:compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "http://dh.null7916.pp.ua/",
+    "target": "_blank",
+    "description": "自定义导航页面"
   },
+ 
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
+    "icon": "fa:fire",
     "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://rebang.today/",
+    "target": "_blank",
+    "description": "聚合全网热点资讯"
   }
 ]
